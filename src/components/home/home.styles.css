@@ -1,0 +1,18 @@
+.home-container {
+	min-height: 800px;
+	display: flex;
+	align-items: center;
+}
+
+.home-header{
+	color: rgba(131, 24, 173, 0.623);
+}
+
+p{
+	color: whitesmoke;
+}
+
+.profile-photo img{
+	width: 200px;
+	height: 200px;
+}
