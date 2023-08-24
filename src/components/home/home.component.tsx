@@ -13,7 +13,7 @@ const Home = () => {
 					<div className="text-center">
 						<div className="profile-photo">
 							<img
-								src="https://lh3.googleusercontent.com/pw/AIL4fc_O8cS4m6WkunLvnhem3MGhKvA-1f4nDr8cvHmX9IPYzgNlVwgd1MhAelrA7ZNaZvYEteza_T7tkYg8W2aaK5N3y1sKSPkkSamtAwIxhE49TxQu5yLzXqAC-OtAZFfjd_Cv6uVrwb2NHxXpkiild9_0xWtNyLjoL_9WzmCnsW2cuAjT3jHPKS35coedUGAqaY5Rl4UbeWkTB8EdF8w4IIDYhhXy-tJ8q0Rk-9WBApwH0ENwy-Zw3jXaICdhxBCqp02ejLccuaTtM3fvu1BECXKzB0y_WmfGHPgo_CQx2lnSarCvBztCx7KZ07rALFFIpvNJXQky4-kQjaNUsxpgkOOd32agNfA-nsKDY4l4q5pKgX30D1X2-pbZFMArWLdCdnoT_MonuDhvquOS-qoRdS43C7TJzMpu77h-79sNXBZpISvnGT2YZ_8nQxbmp6VIWQ2RRgYk7waFaA8lo8hIl_WoA1l4v2BRsHgoQHWysFWdOLhLXFBHGGvcSMZwtBjEoZ5W4HdU3Jy7W9wTYDCqvD-mrTLVXpBlmGK3nwWbPxdTIAc4YqBjnN1Hc0M2u9eHlLrvbT79QgPb-jrZZZdBWSNuwbfLz91aB1I6HKalGo3ZjTlhKi6F26LP3Vm9sIWSkz3z4cu7E1zibzuyjbW6zXP2N9cavu7dHkP6s0zA6-xD10gKiBfxHUgJI2eYgjr3yqh9xhJbFj0djP9egcOccbRti3ftIdJSTxR7GpmHS_GnK83Z4HOZUBwNc19U4bwUvvefHnLNk_lFaLGz8syMfwfQVq2UUZDbMIcPkYclB_9FkK5Rk3OhorNhwVeo7qV8wXe8YK5jQAJn5HsLT8_08qzr0sYRufXeP-Qlx2Gus3hWW3MNw_BUs5uvMLx_BNpgDp7a4uDE0iSEUqI6zAQrp6TKco3KlK2UgpzFpCnJLnAjN6K2AlY1jyaONWdFsiM3i8JJlsGrPT_Gg-vyhPfAYXNWZ_FDeschPHsqNo7-JDVLEs9LKFUzTW3jxa-NjBccz1g=w931-h919-s-no?authuser=0"
+								src="https://res.cloudinary.com/dkscwnhd9/image/upload/v1692874091/itu-close-up_j7pfwe.png"
 								alt=""
 							/>
 						</div>
